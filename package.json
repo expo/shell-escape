@@ -1,0 +1,23 @@
+{
+  "name": "@exponent/shell-escape",
+  "version": "1.0.0",
+  "description": "Escapes single arguments or an Array",
+  "main": "shell-escape.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/exponentjs/shell-escape.git"
+  },
+  "keywords": [
+    "shell",
+    "escape"
+  ],
+  "author": "exponent.team@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/exponentjs/shell-escape/issues"
+  },
+  "homepage": "https://github.com/exponentjs/shell-escape#readme"
+}
